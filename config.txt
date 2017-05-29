@@ -1,0 +1,3 @@
+name = miro
+size = 100 
+email = email@mail.com
